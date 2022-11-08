@@ -26,6 +26,7 @@ scissors = '''
 '''
 
 #Write your code below this line 👇
+#https://replit.com/@J3drek79/rock-paper-scissors-start#main.py
 import random
 
 humanchoice = int(input("What do you want to choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.\n"))
